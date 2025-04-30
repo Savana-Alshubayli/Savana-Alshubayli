@@ -1,4 +1,3 @@
-<!-- Banner (optional if you upload a banner image) -->
 <p align="center">
   <img src="https://github.com/Savana-Alshubayli/Savana-Alshubayli/blob/main/banner.png" alt="Banner" style="width:100%;" />
 </p>
