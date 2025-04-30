@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Savana-Alshubayli/Savana-Alshubayli/blob/main/banner.png" alt="Banner" style="width:100%;" />
+<img src="https://raw.githubusercontent.com/Savana-Alshubayli/Savana-Alshubayli/main/banner.png" alt="Banner" style="width:100%;" />
 </p>
 
 <h1 align="center">Hi, I'm Savana Alshubayli 👩‍💻</h1>
