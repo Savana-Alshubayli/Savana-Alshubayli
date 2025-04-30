@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/Savana-Alshubayli/Savana-Alshubayli/main/banner.png" alt="Banner" style="width:100%;" />
-</p>
+
 
 <h1 align="center">Hi, I'm Savana Alshubayli 👩‍💻</h1>
 <h3 align="center">CS Student | AI & Cybersecurity | King Saud University</h3>
