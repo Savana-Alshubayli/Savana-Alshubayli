@@ -16,11 +16,6 @@
 ![C](https://img.shields.io/badge/-C-181717?style=flat&logo=c)
 ![Java](https://img.shields.io/badge/-Java-181717?style=flat&logo=java)
 
----
-
-### 🛠️ Technologies & Tools
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 
 ---
 
