@@ -1,5 +1,14 @@
 <h1 align="center">Hi, I'm Savana Alshubayli 👩‍💻</h1>
 <h3 align="center">CS Student | AI & Cybersecurity | King Saud University</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Savana-Alshubayli&label=Profile%20Views&color=blueviolet" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,py,anaconda,c,eclipse,figma,html,java,js,matlab,mysql,notion,php,swift,vscode" />
+  </a>
+</p>
 
 ---
 
