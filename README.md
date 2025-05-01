@@ -20,13 +20,6 @@
 
 ---
 
-### 🔤 Languages
-![Python](https://img.shields.io/badge/-Python-181717?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-181717?style=flat&logo=c)
-![Java](https://img.shields.io/badge/-Java-181717?style=flat&logo=java)
-
-
----
 
 ### 🧠 Featured Projects
 
