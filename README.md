@@ -26,11 +26,6 @@
 - 😃 Emotion Recognition using CNN – Facial emotion classification model  
 - 🎮 ArenaFlow – Crowd management for smart stadiums
 
-
-
-### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Savana-Alshubayli&layout=compact&theme=tokyonight)
-
 ---
 
 ### 📫 Let's Connect
