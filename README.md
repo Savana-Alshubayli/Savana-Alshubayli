@@ -31,12 +31,7 @@
 - 😃 Emotion Recognition using CNN – Facial emotion classification model  
 - 🎮 ArenaFlow – Crowd management for smart stadiums
 
-#### 🔐 Cybersecurity Projects
-- 🔍 Packet Sniffing & SQL Injection Detection  
-- 🧬 Heartbleed & SYN Flood Simulation  
-- 🛡️ Network Tools & Encryption Labs
 
----
 
 ### 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Savana-Alshubayli&layout=compact&theme=tokyonight)
