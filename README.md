@@ -19,7 +19,21 @@
 - 💬 I enjoy building tools that solve real-world problems
 
 ---
+### 🏆 Achievements & Projects
 
+- 🥇 **1st Place Winner – KSU Hackathon Expo 2030 Track** *(May 2024)*  
+  💡 Designed and implemented an AI-powered solution for crowd optimization.
+
+- 🥈 **Finalist – KSU Transformation Hackathon** *(April 2025)*  
+  🤖 Developed an AI-driven solution using the OpenAI API for enhancing student services.
+
+- 🥈 **Finalist – SCAI AI League** *(April 2025)*  
+  🎯 Built a real-time ML system using computer vision for public safety monitoring.
+
+- 🥈 **Finalist – Volunteer Hackathon** *(December 2024)*  
+  🌐 Created an IoT-based monitoring system for real-time sensor integration and reporting.
+
+---
 
 ### 🧠 Featured Projects
 
