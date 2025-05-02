@@ -13,17 +13,17 @@
 ---
 
 ### 💬 About Me
-- 🎓 Final-year Computer Science student at **KSU**
-- 🧠 Passionate about **AI**, **Cybersecurity**, and **Smart Systems**
-- 🏆 Winner at **KSU Hackathon – Expo Track**
-- 💬 I love building tools that solve real-world problems
+- 🎓 Senior CS student at **KSU**
+- 🧠 All about **AI**, **Cybersecurity**, and **Smart Systems**
+- 🏆 Won the grand prize in **KSU's Hackathon – Expo Track**
+- 💬 I enjoy building tools that solve real-world problems
 
 ---
 
 
 ### 🧠 Featured Projects
 
-#### 🎓 Academic & AI
+#### 🎓 Academics
 - 🧑‍🏫 [KSU Mentor](https://github.com/your-link) – Academic AI companion for students  
 - 😃 Emotion Recognition using CNN – Facial emotion classification model  
 - 🎮 ArenaFlow – Crowd management for smart stadiums
