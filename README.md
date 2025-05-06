@@ -37,7 +37,6 @@
 
 ### 🧠 Featured Projects
 
-#### 🎓 Academics
 - 🧑‍🏫 [KSU Mentor](https://github.com/your-link) – Academic AI companion for students  
 - 😃 Emotion Recognition using CNN – Facial emotion classification model  
 - 🎮 ArenaFlow – Crowd management for smart stadiums
