@@ -40,6 +40,7 @@
 - 🧑‍🏫 [KSU Mentor](https://github.com/your-link) – Academic AI companion for students  
 - 😃 Emotion Recognition using CNN – Facial emotion classification model  
 - 🎮 ArenaFlow – Crowd management for smart stadiums
+- 🔐 Secure Web App – Demonstrates fixing common web vulnerabilities (SQLi, XSS, RBAC, HTTPS, bcrypt).
 
 ---
 
