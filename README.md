@@ -37,10 +37,10 @@
 
 ### 🧠 Featured Projects
 
-- 🧑‍🏫 [KSU Mentor](https://github.com/your-link) – Academic AI companion for students  
-- 😃 [Emotion Recognition using CNN](https://github.com/your-link) – Facial emotion classification model  
-- 🎮[ ArenaFlow ](https://github.com/your-link)- Crowd management for smart stadiums
-- 🔐 [Secure Web App](https://github.com/your-link) – Demonstrates fixing common web vulnerabilities (SQLi, XSS, RBAC, HTTPS, bcrypt).
+- 🧑‍🏫 [KSU Mentor]([https://github.com/your-link](https://github.com/Savana-Alshubayli/KSU-Mentor)) – Academic AI companion for students  
+- 😃 [Emotion Recognition using CNN](https://github.com/Savana-Alshubayli/facial-emotion-recognition) – Facial emotion classification model  
+- 🎮[ ArenaFlow ]([https://github.com/your-link](https://github.com/Savana-Alshubayli/ArenaFlow))- Crowd management for smart stadiums
+- 🔐 [Secure Web App]([https://github.com/your-link](https://github.com/Savana-Alshubayli/secure-web-app)) – Demonstrates fixing common web vulnerabilities (SQLi, XSS, RBAC, HTTPS, bcrypt).
 
 ---
 
