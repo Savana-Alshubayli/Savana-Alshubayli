@@ -24,8 +24,8 @@
 - 🥇 **1st Place Winner – KSU Hackathon Expo 2030 Track** *(May 2024)*  
   💡 Designed and implemented an AI-powered solution for crowd optimization.
 
-- 🥈 **Finalist – KSU Transformation Hackathon** *(April 2025)*  
-  🤖 Developed an AI-driven solution using the OpenAI API for enhancing student services.
+- 🥈 **Finalist – KSU Transformation Hackathon** *(April 2025)*
+   [KSU Mentor](https://github.com/Savana-Alshubayli/KSU-Mentor)  🤖 Developed an AI-driven solution using the OpenAI API for enhancing student services.
 
 - 🥈 **Finalist – SCAI AI League** *(April 2025)*  
   🎯 Built a real-time ML system using computer vision for public safety monitoring.
