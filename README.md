@@ -38,9 +38,9 @@
 ### 🧠 Featured Projects
 
 - 🧑‍🏫 [KSU Mentor](https://github.com/your-link) – Academic AI companion for students  
-- 😃 Emotion Recognition using CNN – Facial emotion classification model  
-- 🎮 ArenaFlow – Crowd management for smart stadiums
-- 🔐 Secure Web App – Demonstrates fixing common web vulnerabilities (SQLi, XSS, RBAC, HTTPS, bcrypt).
+- 😃 [Emotion Recognition using CNN](https://github.com/your-link) – Facial emotion classification model  
+- 🎮[ ArenaFlow ](https://github.com/your-link)- Crowd management for smart stadiums
+- 🔐 [Secure Web App](https://github.com/your-link) – Demonstrates fixing common web vulnerabilities (SQLi, XSS, RBAC, HTTPS, bcrypt).
 
 ---
 
