@@ -44,15 +44,19 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Savana-Alshubayli/Savana-Alshubayli/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Savana-Alshubayli/Savana-Alshubayli/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Savana-Alshubayli/Savana-Alshubayli/output/github-snake.svg" />
+</picture>
+
+---
+
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/savana-al-shubayli-b2a30621a/))
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](savanaalshubayli@gmail.com )
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Savana-Alshubayli&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 
